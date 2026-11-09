@@ -1,0 +1,2 @@
+Add this key to the target Info settings if Xcode does not add it automatically:
+Privacy - Camera Usage Description = Scan product barcodes for household inventory.
